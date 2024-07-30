@@ -1,0 +1,103 @@
+{
+  "type" : "AnnotationPage",
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "items" : [ {
+    "id" : "https://annotations.allmaps.org/maps/e0d7154f3f397182",
+    "type" : "Annotation",
+    "@context" : [ "http://iiif.io/api/extension/georef/1/context.json", "http://iiif.io/api/presentation/3/context.json" ],
+    "motivation" : "georeferencing",
+    "target" : {
+      "type" : "SpecificResource",
+      "source" : {
+        "id" : "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463b40s",
+        "type" : "ImageService2",
+        "height" : 3988,
+        "width" : 4900
+      },
+      "selector" : {
+        "type" : "SvgSelector",
+        "value" : "<svg width=\"4900\" height=\"3988\"><polygon points=\"202,173 4691,208 4698,3719 199,3929\" /></svg>"
+      }
+    },
+    "body" : {
+      "type" : "FeatureCollection",
+      "features" : [ {
+        "type" : "Feature",
+        "properties" : {
+          "resourceCoords" : [ 2673, 2365 ]
+        },
+        "geometry" : {
+          "type" : "Point",
+          "coordinates" : [ -9.1364239, 38.7075149 ]
+        }
+      }, {
+        "type" : "Feature",
+        "properties" : {
+          "resourceCoords" : [ 2017, 1548 ]
+        },
+        "geometry" : {
+          "type" : "Point",
+          "coordinates" : [ -9.1393624, 38.7136939 ]
+        }
+      }, {
+        "type" : "Feature",
+        "properties" : {
+          "resourceCoords" : [ 2775, 897 ]
+        },
+        "geometry" : {
+          "type" : "Point",
+          "coordinates" : [ -9.1329086, 38.7140531 ]
+        }
+      } ]
+    }
+  }, {
+    "id" : "https://annotations.allmaps.org/maps/8f1d01c739d7dab0",
+    "type" : "Annotation",
+    "@context" : [ "http://iiif.io/api/extension/georef/1/context.json", "http://iiif.io/api/presentation/3/context.json" ],
+    "motivation" : "georeferencing",
+    "target" : {
+      "type" : "SpecificResource",
+      "source" : {
+        "id" : "https://iiif.archive.org/image/iiif/3/bd2f0c73dda64fdda980638b212c6a05%2Fbd2f0c73dda64fdda980638b212c6a05.jpg",
+        "type" : "ImageService3",
+        "height" : 1877,
+        "width" : 1384
+      },
+      "selector" : {
+        "type" : "SvgSelector",
+        "value" : "<svg width=\"1384\" height=\"1877\"><polygon points=\"778,79 104,753 112,1143 852,1495 960,1456 1116,500\" /></svg>"
+      }
+    },
+    "body" : {
+      "type" : "FeatureCollection",
+      "features" : [ {
+        "type" : "Feature",
+        "properties" : {
+          "resourceCoords" : [ 478, 771 ]
+        },
+        "geometry" : {
+          "type" : "Point",
+          "coordinates" : [ 28.1872106, -25.7448727 ]
+        }
+      }, {
+        "type" : "Feature",
+        "properties" : {
+          "resourceCoords" : [ 495, 1008 ]
+        },
+        "geometry" : {
+          "type" : "Point",
+          "coordinates" : [ 28.3709261, -26.4977143 ]
+        }
+      }, {
+        "type" : "Feature",
+        "properties" : {
+          "resourceCoords" : [ 837, 735 ]
+        },
+        "geometry" : {
+          "type" : "Point",
+          "coordinates" : [ 29.4535118, -25.7639581 ]
+        }
+      } ]
+    }
+  } ]
+}
