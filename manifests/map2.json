@@ -220,7 +220,7 @@
 		   "annotations": [
         {
           "id": "https://cpitta.github.io/test/annotations/map1.json",
-          "type": "AnnotationPage"
+          "type": "Georeferencing"
  
       ]
     }
