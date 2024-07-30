@@ -15,5 +15,11 @@
     "@type" : null,
     "@id" : null,
     "label" : null
+  }, {
+    "id" : "https://cpitta.github.io/test/manifests/map3.json",
+    "label" : {
+      "none" : [ "map_biblio" ]
+    },
+    "type" : "Manifest"
   } ]
 }
