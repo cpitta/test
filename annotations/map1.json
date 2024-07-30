@@ -1,5 +1,4 @@
 {
-  "type" : "AnnotationPage",
   "@context" : "http://www.w3.org/ns/anno.jsonld",
   "items" : [ {
     "id" : "https://annotations.allmaps.org/maps/e0d7154f3f397182",
