@@ -11,5 +11,9 @@
       "none" : [ "map_biblio" ]
     },
     "type" : "Manifest"
+  }, {
+    "@type" : null,
+    "@id" : null,
+    "label" : null
   } ]
 }
