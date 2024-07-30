@@ -1,0 +1,15 @@
+{
+  "id" : "https://cpitta.github.io/test/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in cpitta/test project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "id" : "https://cpitta.github.io/test/manifests/map2.json",
+    "label" : {
+      "none" : [ "map_biblio" ]
+    },
+    "type" : "Manifest"
+  } ]
+}
