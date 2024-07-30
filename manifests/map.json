@@ -139,11 +139,6 @@
           "format" : "image/jpeg"
         },
         "target" : "https://iiif.archive.org/iiif/bd2f0c73dda64fdda980638b212c6a05/canvas"
-      } ],
-      "otherContent" : [ {
-        "@id" : "https://cpitta.github.io/test/annotations/map1.json",
-        "@type" : "Georefrencing",
-        "label" : "My fantastic annotations"
       } ]
     } ]
   } ]
