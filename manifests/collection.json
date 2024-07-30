@@ -21,5 +21,11 @@
       "none" : [ "map_biblio" ]
     },
     "type" : "Manifest"
+  }, {
+    "id" : "https://cpitta.github.io/test/manifests/map.json",
+    "label" : {
+      "none" : [ "map_biblio" ]
+    },
+    "type" : "Manifest"
   } ]
 }
